@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Four Digit Date Code Converter</string>
+    <string name="convert_dc_to_date">Convert D/C to Date</string>
+    <string name="convert_date_to_dc">Convert Date to D/C</string>
+    <string name="select_date">Select Date</string>
+    <string name="enter_date_code">Enter Date Code: </string>
+    <string name="dc_yyww_format">YYWW</string>
+    <string name="dc_wwyy_format">WWYY</string>
+    <string name="format_wwyy">D/C Format: WWYY</string>
+    <string name="format_yyww">D/C Format: YYWW</string>
+    <string name="convert">Convert</string>
+    <string name="converts_to"> Converts to </string>
+    <string name="date_is_between">Date is between </string>
+    <string name="and"> and </string>
+    <string name="please_enter_a_valid_dc">Please enter a valid Date Code.</string>
+    <string name="please_enter_a_dc">Please enter a Date Code.</string>
+    <string name="title_activity_date_code_to_date">DateCodeToDate</string>
+    <string name="title_activity_date_to_date_code">DateToDateCode</string>
+</resources>
