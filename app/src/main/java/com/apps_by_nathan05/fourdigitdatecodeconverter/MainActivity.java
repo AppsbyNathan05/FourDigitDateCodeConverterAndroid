@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // sell soul to devil
+
         // MobileAds.initialize(this, "YOUR_ADMOB_APP_ID");
         MobileAds.initialize(this, "ca-app-pub-6270945777512054~7544682133");
 
